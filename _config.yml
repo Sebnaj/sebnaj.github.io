@@ -14,7 +14,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: gravitation, cosmology, general relativity, gravitational entropy, modified gravity, exact solutions, UNAM
-lang: en  # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
@@ -603,13 +603,29 @@ third_party_libraries:
     integrity:
       js: "sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="
     url:
+      js: "https://cdn.jsdelivr.net/npm/mermaid@{{version}}/dist/mermaid.min.js"
+    version: "10.7.0"
+  mathjax:
+    integrity:
+      js: "sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="
+    local:
+      fonts: "output/chtml/fonts/woff-v2/"
+    url:
+      fonts: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/output/chtml/fonts/woff-v2/"
+      js: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/tex-mml-chtml.js"
+    version: "3.2.2"
+  tikzjax:
+    integrity:
+      css: "sha256-p+CQrhSq3dnLHELDcVBFDf4whOor3w8gzLuc/pwRLyQ="
+      js: "sha256-7SCmUR11IG4MkSoeLUq0pombv7oeV7yZuu7Z82e4Uy4="
+    url:
       css: "https://cdn.jsdelivr.net/npm/@planktimerr/tikzjax@{{version}}/dist/fonts.css"
       js: "https://cdn.jsdelivr.net/npm/@planktimerr/tikzjax@{{version}}/dist/tikzjax.js"
     version: "1.0.8"
   tocbot:
     integrity:
       css: "sha256-zTN0r+0OKaIv2xqeNNIYxNk0pWJ6+IqPGc1iDgVzWF0="
-      js: "sha256-lo/r+jQ81wWrxdIiiiEEd538z4+dTJTt+leOuAS7GCw"
+      js: "sha256-lo/r+jQ81wWrxdIiiiEEd538z4+dTJTt+leOuAS7GCw="
     url:
       css: "https://cdn.jsdelivr.net/npm/tocbot@{{version}}/dist/tocbot.css"
       js: "https://cdn.jsdelivr.net/npm/tocbot@{{version}}/dist/tocbot.min.js"
