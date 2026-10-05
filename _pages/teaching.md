@@ -2,34 +2,54 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Undergraduate physics teaching, course materials, and selected academic activities.
+description: Undergraduate physics teaching, course history, and selected academic activities.
 nav: true
 nav_order: 6
 calendar: false
 ---
 
-## Universidad Iberoamericana, Santa Fe
+## Universidad Iberoamericana
 
-Since August 2026, I have taught undergraduate physics at **Universidad Iberoamericana** in Mexico City.
+I have taught undergraduate physics at **Universidad Iberoamericana** in Mexico City since **2019**.
 
-### Current teaching
+### Courses taught
 
-- **Physics and Society**
-- Undergraduate physics instruction and assessment
-- Course activities involving conceptual, mathematical, and oral evaluation
+- **Quantum Physics**
+- **Selected Topics in Astrophysics and Cosmology**
+- **Vector and Tensor Analysis**
+- **Electromagnetism**
 
-### Teaching interests
+My teaching emphasizes the connection between physical ideas, mathematical structure, and scientific reasoning, with a strong focus on moving between conceptual understanding and formal calculation.
 
-My teaching emphasizes the connection between physical ideas, mathematical structure, and scientific reasoning. I am particularly interested in helping students move between conceptual understanding and formal calculation.
+## Facultad de Ciencias, UNAM
 
-### Additional academic teaching activities
+I taught at **Facultad de Ciencias, UNAM** from **2016 to 2024**, including courses in:
 
-I also participate in undergraduate project evaluations and thesis-related academic activities in topics including:
+- Calculus II, III, and IV
+- Vector Mechanics
+- Analytical Mechanics
+- Continuum Mechanics
+- Thermodynamics
+- Relativity
 
-- Electromagnetism
-- General Relativity
-- Quantum Mechanics
-- Magnetohydrodynamics and plasma physics
-- Black holes and wormholes
+I also served as a **Teaching Assistant** in 2015--2016 for:
 
-Course-specific materials and additional resources may be added here over time.
+- Analytical Mechanics
+- Calculus I
+- Advanced Mathematics for Physics
+
+## Additional teaching experience
+
+In **2018**, I taught physics at **Universidad ISEC** at the high-school level.
+
+I also participate in undergraduate project evaluations and thesis-related academic activities in topics including electromagnetism, General Relativity, quantum mechanics, magnetohydrodynamics, plasma physics, black holes, and wormholes.
+
+## Faculty development
+
+At Universidad Iberoamericana I completed training in:
+
+- Development of competencies
+- Brightspace for instructors
+- Design of learning experiences using playful techniques
+- Course preparation
+- Neuroscience applied to education
