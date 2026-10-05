@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Undergraduate physics teaching, course history, and selected academic activities.
 nav: true
-nav_order: 6
+nav_order: 5
 calendar: false
 ---
 
