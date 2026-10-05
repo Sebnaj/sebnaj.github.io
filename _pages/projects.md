@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: Current research directions in gravitation, cosmology, exact solutions, and modified gravity.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ## Schouten--Codazzi Gravity
