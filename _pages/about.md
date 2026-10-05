@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Researcher in Gravitation and Cosmology | UNAM
 
 profile:
