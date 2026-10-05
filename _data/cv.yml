@@ -14,6 +14,34 @@ cv:
       username: Sebnaj
 
   sections:
+    Education:
+      - institution: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
+        location: Mexico City, Mexico
+        area: Physics
+        studyType: PhD in Science (Physics), with Honorable Mention
+        start_date: ""
+        end_date: 2024
+        highlights:
+          - "Dissertation: Cosmological Applications Of Exact Solutions Of Einstein's Equations With Inhomogeneous And Non-Trivial Mass-Energy Distributions"
+          - "Committee: Roberto A. Sussman (advisor), Celia Escamilla-Rivera, and Juan Carlos Hidalgo"
+
+      - institution: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
+        location: Mexico City, Mexico
+        area: Physics
+        studyType: MSc in Science (Physics)
+        start_date: ""
+        end_date: 2018
+        highlights:
+          - "Thesis: Geometric and physical properties of closed ever expanding dust models"
+          - "Committee: Roberto A. Sussman (advisor), Hernando Quevedo, and Jerónimo Cortés"
+
+      - institution: Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)
+        location: Mexico City, Mexico
+        area: Physics
+        studyType: BSc in Physics
+        start_date: ""
+        end_date: 2016
+
     Experience:
       - company: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
         position: Researcher in Gravitation and Cosmology
@@ -22,19 +50,60 @@ cv:
         end_date: Present
         summary: >
           Research on General Relativity, relativistic cosmology, gravitational entropy,
-          exact solutions of Einstein's equations, inhomogeneous spacetimes, and modified gravity.
+          exact solutions of Einstein's equations, inhomogeneous spacetimes, modified gravity,
+          and primordial black-hole models.
         highlights:
           - Gravitational entropy and the gravitational arrow of time
           - Schouten--Codazzi gravity
           - Exact and inhomogeneous solutions in General Relativity
-          - Primordial black-hole and relativistic-collapse models
+          - Primordial black holes and relativistic collapse
 
-      - company: Universidad Iberoamericana, Santa Fe
+      - company: Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM)
+        position: Postdoctoral Researcher
+        location: Cuernavaca, Morelos, Mexico
+        start_date: 2025
+        end_date: ""
+        summary: Postdoctoral research in gravitation and cosmology.
+
+      - company: Universidad Iberoamericana
         position: Lecturer in Physics
         location: Mexico City, Mexico
-        start_date: 2026-08
+        start_date: 2019
         end_date: Present
-        summary: Teaching undergraduate physics courses.
+        highlights:
+          - Quantum Physics
+          - Selected Topics in Astrophysics and Cosmology
+          - Vector and Tensor Analysis
+          - Electromagnetism
+
+      - company: Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)
+        position: Lecturer
+        location: Mexico City, Mexico
+        start_date: 2016
+        end_date: 2024
+        highlights:
+          - Calculus II, III, and IV
+          - Vector Mechanics and Analytical Mechanics
+          - Continuum Mechanics
+          - Thermodynamics
+          - Relativity
+
+      - company: Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)
+        position: Teaching Assistant
+        location: Mexico City, Mexico
+        start_date: 2015
+        end_date: 2016
+        highlights:
+          - Analytical Mechanics
+          - Calculus I
+          - Advanced Mathematics for Physics
+
+      - company: Universidad ISEC
+        position: Lecturer
+        location: Mexico City, Mexico
+        start_date: 2018
+        end_date: 2018
+        summary: High-school level physics instruction.
 
     Publications:
       - title: Revisiting the gravitational `arrow of time'
@@ -84,10 +153,29 @@ cv:
         releaseDate: 2024
         url: https://doi.org/10.1088/1361-6382/ad922e
 
+    Awards:
+      - title: CONACYT Doctoral Scholarship
+        date: 2020
+        awarder: Consejo Nacional de Ciencia y Tecnología (CONACYT)
+        summary: Doctoral scholarship under the supervision of Roberto A. Sussman.
+
+      - title: CONACYT Master's Scholarship
+        date: 2016
+        awarder: Consejo Nacional de Ciencia y Tecnología (CONACYT)
+        summary: Master's scholarship, 2016--2018, under the supervision of Roberto A. Sussman.
+
     Skills:
       - name: Research areas
         icon: fa-solid fa-atom
         keywords: "General Relativity, Relativistic Cosmology, Gravitational Entropy, Modified Gravity, Exact Solutions, Inhomogeneous Spacetimes, Primordial Black Holes"
+
+      - name: Programming and scientific computing
+        icon: fa-solid fa-code
+        keywords: "Python, Maple, Mathematica"
+
+      - name: Technical tools
+        icon: fa-solid fa-laptop-code
+        keywords: "LaTeX, macOS, Unix/Linux, Microsoft Office"
 
       - name: Methods
         icon: fa-solid fa-square-root-variable
@@ -120,3 +208,31 @@ cv:
           - LTB and Szekeres models
           - Scalar-field models
           - Comparison with numerical-relativity approaches
+
+    Talks:
+      - name: A non-static inhomogeneous exact solution in f(T,B) gravity
+        summary: Geometric Foundations of Gravity 2021 (online).
+      - name: Pancakes as opposed to Swiss Cheese
+        summary: GRAVITEX 2021 (online).
+      - name: Szekeres-II models in cosmology
+        summary: VII Scalar Field Dark Matter Workshop, 2021.
+      - name: Szekeres-II models in cosmology
+        summary: XIV DGFM-SMF Workshop, 2021.
+      - name: Soluciones Exactas en Cosmología - Avances Recientes
+        summary: Poster presented at LXV Congreso Nacional de Física, 2022.
+      - name: Neural Networks Classifier for standard and extended cosmologies
+        summary: Poster presented at CosmoVerse@Lisbon 2023.
+
+    Outreach:
+      - name: Relatividad General para principiantes
+        summary: Public talk at Centro Astronómico Clavius, Universidad Iberoamericana, 2021.
+      - name: El lado oscuro del Universo
+        summary: Public talk at Centro Astronómico Clavius, Universidad Iberoamericana, 2020.
+      - name: Agujeros negros, monstruos cósmicos
+        summary: Public talk for the Astronomía Básica summer school, Centro Astronómico Clavius, Universidad Iberoamericana, 2020.
+      - name: El lado oscuro del Universo
+        summary: Public talk during Astronomy Week at Universidad ITESO, 2020.
+      - name: Física de los superhéroes
+        summary: Public talk at Centro Astronómico Clavius, Universidad Iberoamericana, 2020.
+      - name: Gravitación, Relatividad General y Planilandia
+        summary: Public talk at Centro Astronómico Clavius, Universidad Iberoamericana, 2019.
