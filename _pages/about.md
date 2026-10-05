@@ -6,7 +6,7 @@ subtitle: Researcher in Gravitation and Cosmology | UNAM
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sebastian-academic.png
   image_circular: false
   more_info: >
     <p><strong>Instituto de Ciencias Nucleares</strong></p>
