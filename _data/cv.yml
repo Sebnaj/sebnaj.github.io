@@ -1,26 +1,29 @@
 cv:
   name: Sebastián Nájera Valencia
-  label: Researcher in Gravitation and Cosmology
+  headline: Researcher in Gravitation and Cosmology
   email: sebastian_najera@icf.unam.mx
   location: Mexico City, Mexico
-  image: /assets/img/sebastian-academic.png
-  summary: >
-    Researcher in gravitation and relativistic cosmology working on General Relativity,
-    gravitational entropy, inhomogeneous spacetimes, modified gravity, exact solutions,
-    and primordial black-hole models.
+  website: https://sebnaj.github.io
+  photo: ../assets/img/sebastian-academic.png
 
   social_networks:
     - network: GitHub
       username: Sebnaj
+    - network: ORCID
+      username: 0000-0001-9086-343X
+    - network: ResearchGate
+      username: Sebastian-Najera-Valencia
 
   sections:
+    Summary:
+      - Researcher in gravitation and relativistic cosmology working on General Relativity, gravitational entropy, inhomogeneous spacetimes, modified gravity, exact solutions, and primordial black-hole models.
+
     Education:
       - institution: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
         location: Mexico City, Mexico
         area: Physics
-        studyType: PhD in Science (Physics), with Honorable Mention
-        start_date: ""
-        end_date: 2024
+        degree: PhD in Science (Physics), with Honorable Mention
+        date: 2024
         highlights:
           - "Dissertation: Cosmological Applications Of Exact Solutions Of Einstein's Equations With Inhomogeneous And Non-Trivial Mass-Energy Distributions"
           - "Committee: Roberto A. Sussman (advisor), Celia Escamilla-Rivera, and Juan Carlos Hidalgo"
@@ -28,9 +31,8 @@ cv:
       - institution: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
         location: Mexico City, Mexico
         area: Physics
-        studyType: MSc in Science (Physics)
-        start_date: ""
-        end_date: 2018
+        degree: MSc in Science (Physics)
+        date: 2018
         highlights:
           - "Thesis: Geometric and physical properties of closed ever expanding dust models"
           - "Committee: Roberto A. Sussman (advisor), Hernando Quevedo, and Jerónimo Cortés"
@@ -38,20 +40,15 @@ cv:
       - institution: Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)
         location: Mexico City, Mexico
         area: Physics
-        studyType: BSc in Physics
-        start_date: ""
-        end_date: 2016
+        degree: BSc in Physics
+        date: 2016
 
     Experience:
       - company: Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México (UNAM)
         position: Researcher in Gravitation and Cosmology
         location: Mexico City, Mexico
-        start_date: ""
-        end_date: Present
-        summary: >
-          Research on General Relativity, relativistic cosmology, gravitational entropy,
-          exact solutions of Einstein's equations, inhomogeneous spacetimes, modified gravity,
-          and primordial black-hole models.
+        date: Present
+        summary: Research on General Relativity, relativistic cosmology, gravitational entropy, exact solutions of Einstein's equations, inhomogeneous spacetimes, modified gravity, and primordial black-hole models.
         highlights:
           - Gravitational entropy and the gravitational arrow of time
           - Schouten--Codazzi gravity
@@ -61,15 +58,14 @@ cv:
       - company: Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM)
         position: Postdoctoral Researcher
         location: Cuernavaca, Morelos, Mexico
-        start_date: 2025
-        end_date: ""
+        date: 2025
         summary: Postdoctoral research in gravitation and cosmology.
 
       - company: Universidad Iberoamericana
         position: Lecturer in Physics
         location: Mexico City, Mexico
         start_date: 2019
-        end_date: Present
+        end_date: present
         highlights:
           - Quantum Physics
           - Selected Topics in Astrophysics and Cosmology
@@ -101,109 +97,93 @@ cv:
       - company: Universidad ISEC
         position: Lecturer
         location: Mexico City, Mexico
-        start_date: 2018
-        end_date: 2018
+        date: 2018
         summary: High-school level physics instruction.
 
     Publications:
       - title: Revisiting the gravitational `arrow of time'
         authors:
           - Roberto A. Sussman
-          - Sebastián Nájera
+          - "**Sebastián Nájera**"
           - Fernando A. Pizaña
           - Juan Carlos Hidalgo
-        publisher: Classical and Quantum Gravity
-        releaseDate: 2026
-        url: https://doi.org/10.1088/1361-6382/ae6f68
+        journal: Classical and Quantum Gravity
+        date: 2026
+        doi: 10.1088/1361-6382/ae6f68
 
       - title: Peculiar velocity fields from analytic solutions of general relativity
         authors:
           - Roberto A. Sussman
-          - Sebastián Nájera
+          - "**Sebastián Nájera**"
           - Fernando A. Pizaña
           - Juan Carlos Hidalgo
-        publisher: The European Physical Journal C
-        releaseDate: 2026
-        url: https://doi.org/10.1140/epjc/s10052-026-15865-z
+        journal: The European Physical Journal C
+        date: 2026
+        doi: 10.1140/epjc/s10052-026-15865-z
 
       - title: Gravitational entropy in Petrov Type I spacetimes
         authors:
           - Maharshi Sarma
-          - Sebastián Nájera
+          - "**Sebastián Nájera**"
           - Roberto A. Sussman
-        publisher: arXiv
-        releaseDate: 2026
+        journal: arXiv preprint
+        date: 2026
         url: https://arxiv.org/abs/2605.20611
 
       - title: Gravitational entropy of fluids with energy flux
         authors:
           - Roberto A. Sussman
-          - Sebastián Nájera
+          - "**Sebastián Nájera**"
           - Fernando A. Pizaña
           - Juan Carlos Hidalgo
-        publisher: arXiv
-        releaseDate: 2025
+        journal: arXiv preprint
+        date: 2025
         url: https://arxiv.org/abs/2509.25007
 
       - title: Schouten--Codazzi gravity
         authors:
           - Roberto A. Sussman
-          - Sebastián Nájera
-        publisher: Classical and Quantum Gravity
-        releaseDate: 2024
-        url: https://doi.org/10.1088/1361-6382/ad922e
+          - "**Sebastián Nájera**"
+        journal: Classical and Quantum Gravity
+        date: 2024
+        doi: 10.1088/1361-6382/ad922e
 
     Awards:
-      - title: CONACYT Doctoral Scholarship
+      - name: CONACYT Doctoral Scholarship
         date: 2020
-        awarder: Consejo Nacional de Ciencia y Tecnología (CONACYT)
-        summary: Doctoral scholarship under the supervision of Roberto A. Sussman.
+        summary: Scholarship from Consejo Nacional de Ciencia y Tecnología (CONACYT), under the supervision of Roberto A. Sussman.
 
-      - title: CONACYT Master's Scholarship
-        date: 2016
-        awarder: Consejo Nacional de Ciencia y Tecnología (CONACYT)
-        summary: Master's scholarship, 2016--2018, under the supervision of Roberto A. Sussman.
+      - name: CONACYT Master's Scholarship
+        date: 2016--2018
+        summary: Scholarship from Consejo Nacional de Ciencia y Tecnología (CONACYT), under the supervision of Roberto A. Sussman.
 
     Skills:
-      - name: Research areas
-        icon: fa-solid fa-atom
-        keywords: "General Relativity, Relativistic Cosmology, Gravitational Entropy, Modified Gravity, Exact Solutions, Inhomogeneous Spacetimes, Primordial Black Holes"
-
-      - name: Programming and scientific computing
-        icon: fa-solid fa-code
-        keywords: "Python, Maple, Mathematica"
-
-      - name: Technical tools
-        icon: fa-solid fa-laptop-code
-        keywords: "LaTeX, macOS, Unix/Linux, Microsoft Office"
-
-      - name: Methods
-        icon: fa-solid fa-square-root-variable
-        keywords: "Exact and semi-analytical methods, Covariant methods, Differential geometry, Relativistic fluid dynamics"
+      - label: Research areas
+        details: General Relativity, Relativistic Cosmology, Gravitational Entropy, Modified Gravity, Exact Solutions, Inhomogeneous Spacetimes, Primordial Black Holes
+      - label: Programming and scientific computing
+        details: Python, Maple, Mathematica
+      - label: Technical tools
+        details: LaTeX, macOS, Unix/Linux, Microsoft Office
+      - label: Methods
+        details: Exact and semi-analytical methods, Covariant methods, Differential geometry, Relativistic fluid dynamics
 
     Projects:
       - name: Schouten--Codazzi Gravity
-        summary: >
-          Study of the field equations, integrability conditions, exact solutions,
-          matching problems, perturbations, and compact-object applications of Schouten--Codazzi gravity.
+        summary: Study of the field equations, integrability conditions, exact solutions, matching problems, perturbations, and compact-object applications of Schouten--Codazzi gravity.
         highlights:
           - Exact cosmological and radiating solutions
           - Integrability and degree-of-freedom analysis
           - Black-hole and no-hair questions
 
       - name: Gravitational Entropy in Inhomogeneous Spacetimes
-        summary: >
-          Investigation of gravitational entropy and the gravitational arrow of time
-          in exact inhomogeneous solutions and relativistic fluids.
+        summary: Investigation of gravitational entropy and the gravitational arrow of time in exact inhomogeneous solutions and relativistic fluids.
         highlights:
           - Petrov classification
           - Fluids with energy flux
           - Exact cosmological models
 
       - name: Exact Models for Primordial Black Holes
-        summary: >
-          Development of exact and semi-analytical General Relativity models that can be
-          compared with numerical primordial black-hole formation calculations.
+        summary: Development of exact and semi-analytical General Relativity models that can be compared with numerical primordial black-hole formation calculations.
         highlights:
           - LTB and Szekeres models
           - Scalar-field models
